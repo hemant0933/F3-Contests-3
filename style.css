@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+#{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+.title{
+    font-weight: 400;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+#right-part-text{
+    font-weight: 400;
+    font-size: 21px;   
+    cursor: pointer;
+}
+/* section 1- */
+.section-1{
+    margin-top: 90px;
+    padding: 10px 35px;
+}
+#teacher-signup{
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 400;
+}
+#errorContainer{
+    
+    padding: 10px 50px;
+}
